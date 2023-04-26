@@ -1,29 +1,8 @@
 <a name="readme-top"></a>
 
-<!--
-
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
--->
-
-
-
-  <h3><b>Microverse Hello World</b></h3>
+<div align="center">
+ 
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -42,7 +21,7 @@ OPTIONAL SECTIONS:
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -53,59 +32,54 @@ OPTIONAL SECTIONS:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Microverse Hello World] <a name="about-project"></a>
+# 📖 [Hello-microverse-project] <a name="setting Up a linters"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[MIcroverse Hello world]** is an AI that can teach you in different languages in the world.
-## 🛠 Built With <a name="HTML and CSS">Html and CSS</a>
+**[Hello-microverse-project]** is a project to set up html-css linters in order to be able to detect bugs in our code
 
-### Tech Stack <a name="tech-stack">Linters</a>
+## 🛠 Built With <a name="built-with"></a>
+
+1. HTML
+2. CSS
+3. LINTERS
+
+### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="[https://reactjs.org/](https://developer.mozilla.org/en-US/docs/Web/HTML)">HTML and CSS</a></li>
+    <li><a href="https://reactjs.org/">html</a></li>
+    <li><a href="https://reactjs.org/">css</a></li>
+    
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href=["https://expressjs.com/](https://github.com/microverseinc/linters-config/tree/master/html-css)">Linters</a></li>
-  </ul>
-</details>
-
-
 
 <!-- Features -->
 
-### Key Features <a name="key-features">API</a>
+### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+Added html.index file
+added style.css
+added linters.yml
 
-- **[Greetings]**
-
+- **[html.index]**
+- **[style.css]**
+- **[linters.yml]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo">WebApp live</a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link]([https://google.com](https://aradradev.github.io/Hello-microverse/))
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
+> This project will help a new developer to indentifer bugs in the early days of his coding
+> and also keeps the working pace clean
 
 To get a local copy up and running, follow these steps.
 
@@ -113,7 +87,17 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- web browser (Mozilla)
+- code editor
+- git
 
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
 
@@ -124,42 +108,71 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  https://github.com/aradradev/Hello-microverse
 ```
 --->
 
+### Install
 
+Install this project with:
 
+<!--
+run this command  :
 
+```sh
+  cd my-project
+  npm install
+```
+--->
 
+### Usage
+
+To run the project, execute the following command:
+
+open index.html using server extension
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+t> comming soon
+
+<!--
 
 
 ### Deployment
 
-You can deploy this project using:
+t> comming soon   :
 
-
+<!--
 Example:
 
-```Mozilla
+```sh
 
-```Google Chrome
- 
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors">Abdoul Jalloh</a>
+## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 ** Abdourahmane Diallo **
 
 - GitHub: [@githubhandle](https://github.com/aradradev)
 - Twitter: [@twitterhandle](https://twitter.com/Abdoul_2023)
-- LinkedIn: [LinkedIn]([https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/abdoul-ramane-diallo-15b2a2262/))
-
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdoul-ramane-diallo-15b2a2262/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,9 +182,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[API]**
-- [ ] **[Machine learning]**
-- [ ] **[JavaScript]**
+- [ ] Add header
+- [ ] Add footer
+- [ ] Add more styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,11 +200,11 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support">Abdoul Jalloh</a>
+## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
 
-If you like this project give me a five stars.
+If you like this project, please give me a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,7 +214,7 @@ If you like this project give me a five stars.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank the team of Microverse.
+I would like to thank Microverse team for the opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,13 +224,13 @@ I would like to thank the team of Microverse.
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[What is Microverse Hello World]**
+- **[Question_1]**
 
-  - [Microverse Hello World is an AI who is in beta version and will be improved everyday ]
+  - [Answer_1]
 
-- **[Who developed Microverse Hello World]**
+- **[Question_2]**
 
-  - [Abdoul developed this application who is a student of Microverse and one of the person sho is passionate about programming and Machine learning.]
+  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,3 +243,11 @@ This project is [MIT](./LICENSE) licensed.
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<a name="readme-top"></a>
+
+<div align="center">
+ 
+  <h3><b>Hello Microverse</b></h3>
+
+</div>
+
