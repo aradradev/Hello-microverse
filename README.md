@@ -30,7 +30,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-PROJECT DESCRIPTION
+
 
 # 📖 [Hello-microverse-project] <a name="setting Up a linters"></a>
 
@@ -57,7 +57,7 @@ PROJECT DESCRIPTION
   </ul>
 </details>
 
-Features
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -71,9 +71,7 @@ added linters.yml
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-LIVE DEMO
 
-GETTING STARTED
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -92,7 +90,6 @@ In order to run this project you need:
 - git
 
 
-Example command:
 
 ```sh
  gem install rails
@@ -110,7 +107,7 @@ Example commands:
   cd my-folder
   https://github.com/aradradev/Hello-microverse
 ```
--
+
 
 ### Install
 
@@ -123,21 +120,13 @@ run this command  :
   cd my-project
   npm install
 ```
--
-
-### Usage
-
-To run the project, execute the following command:
-
-open index.html using server extension
-
 
 Example command:
 
 ```sh
   rails server
 ```
--
+
 
 ### Run tests
 
@@ -158,14 +147,6 @@ Example:
 ```sh
 
 ```
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 👥 Authors <a name="authors"></a>
-
 
 
 👤 ** Abdourahmane Diallo **
@@ -198,7 +179,7 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-SUPPORT
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -207,6 +188,7 @@ SUPPORT
 If you like this project, please give me a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
@@ -233,13 +215,13 @@ I would like to thank Microverse team for the opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-LICENSE
+
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-[MIT license](https://github.com/aradradev/Hello-microverse/blob/add-license-1/Licence) 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <a name="readme-top"></a>
