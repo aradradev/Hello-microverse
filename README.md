@@ -239,7 +239,7 @@ LICENSE
 
 This project is [MIT](./LICENSE) licensed.
 
-[MIT license](https://github.com/aradradev/Hello-microverse/tree/add-license-1) 
+[MIT license](https://github.com/aradradev/Hello-microverse/blob/add-license-1/Licence) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <a name="readme-top"></a>
